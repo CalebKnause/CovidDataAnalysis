@@ -1,6 +1,5 @@
 /*
 Covid 19 Data Exploration 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 */
 
 Select *
@@ -140,8 +139,6 @@ Join PortfolioProject..CovidVaccinations vac
 
 Select *, (RollingPeopleVaccinated/Population)*100
 From #PercentPopulationVaccinated
-
-
 
 
 -- Creating View to store data for later visualizations
