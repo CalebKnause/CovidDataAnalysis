@@ -5,7 +5,6 @@
 This project aims to analyze COVID-19 data spanning from February 4, 2020, to April 13, 2022, using a combination of SQL, Excel, and SQL Server Management Studio (SSMS). The primary objective is to identify and understand trends related to the likelihood of contracting COVID-19. By leveraging data exploration techniques, we have determined the seven most prominent factors influencing the contraction of the virus.
 
 ## Tools Used
-
 - **SQL**: Structured Query Language was employed to query and filter relevant data from the COVID-19 dataset.
   
 - **Excel**: Microsoft Excel was used for data cleaning, transformation, and initial exploratory data analysis.
